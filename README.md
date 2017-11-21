@@ -1,0 +1,2 @@
+# firefox-extension
+Coming Soon™
